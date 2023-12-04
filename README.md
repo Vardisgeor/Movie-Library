@@ -5,4 +5,4 @@ This project was created with a GUI in C++ with 2D graphics using a specific lib
 
 This app provide the ability of search by name of the movie, the category, the year of production and the actors name.
 
-All the data was stored inside the project, without any usage of external sources for the purpose of the university exam exercise.
+All the data being used was stored inside the project, without any usage of external sources for the purpose of the university exam exercise.
